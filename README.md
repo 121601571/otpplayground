@@ -1,2 +1,2 @@
 # otpplayground
-Elixir with OTP, self-learnning
+Elixir with OTP, self-learning
