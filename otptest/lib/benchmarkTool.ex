@@ -86,8 +86,8 @@ defmodule BenchmarkTool do
 end
 # a = BenchmarkTool.runBench001(100)
 # a |> Enum.each(fn (x) ->  Task.await(x, 100000) end )
-res = BenchmarkTool.runBench002(10000000)
-IO.inspect(res)
+# res = BenchmarkTool.runBench002(10000000)
+# IO.inspect(res)
 #IO.inspect(BenchmarkTool.getPrimeCount(1,100000))
 # OtpCounter.start_link(0)
 # OtpCounter.add(10)
